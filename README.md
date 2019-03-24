@@ -2,4 +2,4 @@
 
 * Components 
 
-Live versions here [https://claraj.github.io/vue-week-3-examples](https://claraj.github.io/vue-week-3-examples)
+Live versions here [https://claraj.github.io/vue-week-3-examples-would-you-rather/](https://claraj.github.io/vue-week-3-examples-would-you-rather/)
